@@ -1,4 +1,4 @@
-export const SITE_URL = 'https://ltohelper.ph'
+export const SITE_URL = 'https://lto-registration-helper.vercel.app'
 
 export const siteMeta = {
   siteName: 'LTO Registration Helper',
